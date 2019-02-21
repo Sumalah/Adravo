@@ -4,10 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AdravoApplication {
+public class AdravoMain {
 
     public static void main(String[] args) {
-        SpringApplication.run(AdravoApplication.class, args);
+        SpringApplication.run(AdravoMain.class, args);
     }
-
 }
